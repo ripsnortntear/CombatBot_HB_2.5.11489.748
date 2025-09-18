@@ -43,7 +43,7 @@ These improvements enhance performance, safety, and readability—making it easi
 
 ## Getting Started
 
-1. Place `CombatBot.cs` in your Honorbuddy Bots directory.
+1. Place `CombatBot.cs` in your Honorbuddy Bots/CombatBot/ directory.
 2. Build or reload your bot list in Honorbuddy; select "CombatBot" from the bot dropdown.
 3. Configure routines and settings as desired.
 
